@@ -1,0 +1,63 @@
+# Kayode Adeniyi
+
+> PhD researcher at Imperial College London working on uncertainty quantification for AI and sensing systems. Based in London, United Kingdom.
+
+Website: https://adeniyikayodee.github.io/
+Email: k.adeniyi26@imperial.ac.uk
+GitHub: https://github.com/Adeniyikayodee
+Hugging Face: https://huggingface.co/mkbadeniyi
+LinkedIn: https://www.linkedin.com/in/kadeniyi
+LogRocket: https://blog.logrocket.com/author/kayodeadeniyi
+freeCodeCamp: https://www.freecodecamp.org/news/author/mkbadeniyi
+
+## Research
+
+Kayode's research asks how far a measurement can be trusted, and what that trust is worth to a decision. He studies uncertainty quantification for AI and for low-cost sensing, with a focus on places where data is scarce.
+
+He is a PhD researcher in the Department of Civil and Environmental Engineering at Imperial College London (2026 to present), supervised by Professor Wouter Buytaert. He works in the Schmidt Sciences Virtual Institute for Earth's Water (VIEW) on the project "Unlocking Local Knowledge Production for Global Water Reanalysis", co-led by Imperial and the International Water Management Institute (IWMI), with field sites in Ghana, Ethiopia, Ecuador, India, Laos and Peru. The work combines community-measured rainfall, river levels, flow and groundwater with historical records and models.
+
+## Projects
+
+- ng-flood (2026): turns Google's riverine and flash-flood forecasts into location-level warnings for Nigeria, grouped by NIPOST postcode area. Every verdict records the gauge and forecast used, and site locations stay on the user's machine.
+- Community-sensed flood warning (2026): flood warnings for dense informal settlements such as Ajegunle, Lagos, where satellite radar cannot see standing water. Uses TESSERA geospatial foundation-model embeddings as a spatial prior and residents' reports in English, Nigerian Pidgin or Yoruba with a sequential probability ratio test. Presented at London Geo Meetup, Birkbeck (August 2026); tutorial prepared for the NeurIPS 2026 Tackling Climate Change with Machine Learning workshop.
+- WazoCore (2026): adds 15,000 Yoruba, Hausa and Igbo tokens to N-ATLaS, Nigeria's open language model, giving 1.55 to 1.64 times faster generation in llama.cpp.
+- gagelink and quantity-guard (2026): an MCP server giving AI agents river level, streamflow, flood forecasts and basins from USGS, NOAA, Hub'Eau, the UK Environment Agency and SWOT, with units, vertical datum and quality attached. In 4,288 runs across eleven models, unguarded agents passed ft3/s as m3/s, a 35.3 times error.
+- Removing Data Leakage Does Not Fix Benchmarks (2026): manuscript and code showing that when shortcut pathways are redundant, removing one identified leak leaves the metric unchanged. Introduces provclose, a diagnostic package tested across twelve river basins.
+- Riverlabs firmware (2026): contributions to Imperial's open-source firmware for low-cost river-level loggers.
+- Katcha Ward flood study (2026): a six-year Sentinel-1 flood record for 8,891 ha of rice farmland on the River Niger floodplain, identifying 4,109 ha at highest hazard and guiding distribution of flood-tolerant FARO 67 rice seed.
+
+## Experience
+
+- AI Research Engineer, London School of Economics (2026): evaluation of how frontier language models represent non-Western knowledge systems.
+- AI Product Manager Consultant, Whiteshield (2026).
+- AI Policy Analyst, United Nations Development Programme (2025): AI readiness and digital public infrastructure assessments across Africa and Latin America.
+- Head of Research and Innovation, Geohazards Risk Mapping Initiative (2024 to 2026): flood-risk mapping across 25 communities in Nigeria; led a team of 50+ researchers and engineers.
+- Software Engineering Lead Consultant, Leapstart Lab (2023 to 2024).
+- Software Engineer, Flutterwave (2022 to 2023).
+- Geospatial Software Engineer, Lorex Geospatial and Sambus Geospatial (2019 to 2022).
+
+## Education
+
+- PhD, Civil and Environmental Engineering, Imperial College London (2026 to present).
+- MSc Management of Information Systems and Digital Innovation, London School of Economics, Distinction (2024 to 2025).
+- Summer School, Sustainability and Critical Minerals, University of Oxford (2025).
+- Summer School, Environment and Human Health and GIS, Harbin Institute of Technology, China (2021).
+- BSc Geography and Environmental Management, University of Ilorin, Nigeria (2015 to 2019). Vice Chancellor's Award, Best Graduating Student in Geography.
+- Christ's School, Ado Ekiti, Nigeria.
+
+## Scholarships and awards
+
+- Schmidt Sciences, PhD research in the Virtual Institute for Earth's Water (2026).
+- UKRI NERC TREES Doctoral Landscape Award (2026).
+- Bloomberg Philanthropies PhD Studentship in Cities, LSE (2026).
+- Chevening Scholarship (2024).
+- Winner, Luminance Legal-Grade AI Challenge, Cambridge Judge Business School (2025).
+- Winner, LSE Phelan US Centre Essay Competition on Artificial Intelligence (2025).
+- University of Ilorin Scholarship; Ekiti State Government Scholarship; Samuel Bandele Falegan Scholarship.
+
+## Writing and talks
+
+- About 76 technical articles for LogRocket and further articles for freeCodeCamp.
+- Essays on AI policy for LSE blogs (2024 to 2025).
+- Speaker, "Mapping Floods Where There Is No Ground Truth", London Geo Meetup, Birkbeck, University of London (August 2026).
+- Invited presentation on responsible, auditable AI in public services, British-American Parliamentary Group, Palace of Westminster (April 2025).

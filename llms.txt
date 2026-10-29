@@ -1,0 +1,31 @@
+# Kayode Adeniyi
+
+> Kayode Adeniyi is a PhD researcher at Imperial College London working on uncertainty quantification for AI and sensing systems: how far a measurement or a model's answer can be trusted, and what that trust is worth to a decision. His work spans flood mapping and forecasting in data-scarce regions, AI for Yoruba, Hausa and Igbo, reliable data for AI agents, and AI policy.
+
+Kayode is a member of the Schmidt Sciences Virtual Institute for Earth's Water (VIEW) at Imperial College London, supervised by Professor Wouter Buytaert, with fieldwork in Ghana. He holds an MSc with Distinction from the London School of Economics (Chevening Scholar) and a BSc from the University of Ilorin, Nigeria. He has worked as an AI Research Engineer at the London School of Economics, an AI Policy Analyst at the United Nations Development Programme, Head of Research and Innovation at the Geohazards Risk Mapping Initiative, and a Software Engineer at Flutterwave.
+
+Contact: k.adeniyi26@imperial.ac.uk
+
+## Profile
+
+- [Website](https://adeniyikayodee.github.io/): Research, projects, education, scholarships and writing
+- [Full profile for language models](https://adeniyikayodee.github.io/llms-full.txt): Detailed background, projects, publications and awards
+- [GitHub](https://github.com/Adeniyikayodee): Open-source code
+- [Hugging Face](https://huggingface.co/mkbadeniyi): Models and datasets
+- [LinkedIn](https://www.linkedin.com/in/kadeniyi): Professional profile
+
+## Projects
+
+- [ng-flood](https://github.com/Adeniyikayodee/ng-flood): Google flood forecasts checked for any location in Nigeria, grouped by postcode area
+- [Community-sensed flood warning](https://github.com/Adeniyikayodee/Reliability-Caps): Flood warnings for dense settlements from foundation-model embeddings and residents' reports
+- [WazoCore](https://github.com/Adeniyikayodee/WazoCore): Vocabulary expansion of N-ATLaS for faster Yoruba, Hausa and Igbo generation
+- [gagelink](https://github.com/Adeniyikayodee/gagelink): MCP server giving AI agents river and flood data with units and datums attached
+- [Katcha Ward flood study](https://www.preventionweb.net/publication/documents-and-publications/flood-tolerant-rice-seed-deployment-and-satellite-based): Satellite flood risk assessment for rice farmers, Niger State
+
+## Writing
+
+- [LogRocket articles](https://blog.logrocket.com/author/kayodeadeniyi): About 76 articles on software, AI and product
+- [freeCodeCamp articles](https://www.freecodecamp.org/news/author/mkbadeniyi): Technical tutorials
+- [AI in the US: The Next Space Race or the Next Subprime Crisis?](https://blogs.lse.ac.uk/usappblog/2025/03/17/ai-in-the-us-the-next-space-race-or-the-next-subprime-crisis): Winning essay, LSE Phelan US Centre, 2025
+- [The United Nations' New AI Infrastructure Is Africa's Strategic Edge](https://blogs.lse.ac.uk/internationaldevelopment/2025/10/10/the-united-nations-new-ai-infrastructure-is-africas-strategic-edge): LSE International Development, 2025
+- [Green Infrastructure Is Needed to Tackle Flooding in Lagos](https://blogs.lse.ac.uk/africaatlse/2024/06/06/green-infrastructure-is-needed-to-tackle-flooding-in-lagos): Africa at LSE, 2024
